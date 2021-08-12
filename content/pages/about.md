@@ -48,8 +48,7 @@ sections:
 
       - dolor sit amet
     type: content_section
-  - title: lorem-ipsum
-    content: >
+  - content: >
       ## [Important Documents](google.com)
 
 
