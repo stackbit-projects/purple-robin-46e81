@@ -49,17 +49,13 @@ sections:
       - dolor sit amet
     type: content_section
   - title: lorem-ipsum
-    content: >-
+    content: >+
       ## Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     type: content_section
   - title: Important Documents
     subtitle: 'lorem-ipsum dolor sit amet, consectuer'
