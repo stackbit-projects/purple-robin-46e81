@@ -55,8 +55,7 @@ sections:
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     type: content_section
-  - title: Important Documents
-    subtitle: 'lorem-ipsum dolor sit amet, consectuer'
+  - subtitle: 'lorem-ipsum dolor sit amet, consectuer'
     actions: []
     align: left
     image_alt: lorem-ipsum
