@@ -66,8 +66,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     align: left
     image_alt: lorem-ipsum
     image_position: left
