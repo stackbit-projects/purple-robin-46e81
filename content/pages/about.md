@@ -62,7 +62,7 @@ sections:
       - dolor sit amet
     type: content_section
   - title: Important Documents
-    subtitle: lorem-ipsum
+    subtitle: 'lorem-ipsum dolor sit amet, consectuer'
     actions: []
     align: left
     image_alt: lorem-ipsum
