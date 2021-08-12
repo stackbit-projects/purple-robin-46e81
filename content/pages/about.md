@@ -50,7 +50,7 @@ sections:
     type: content_section
   - title: lorem-ipsum
     content: >
-      ## [Lorem ipsum](google.ca)
+      ## [Important Documents](google.com)
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
