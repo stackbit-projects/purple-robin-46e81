@@ -12,7 +12,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla. ttt
-        align: right
+        align: left
         image: images/feature.svg
         image_alt: Feature 13 placeholder image
         image_position: right
