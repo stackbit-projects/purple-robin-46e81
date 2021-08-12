@@ -61,7 +61,7 @@ sections:
 
       - dolor sit amet
     type: content_section
-  - title: lorem-ipsum
+  - title: Important Documents
     subtitle: lorem-ipsum
     actions: []
     align: left
