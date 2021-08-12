@@ -49,13 +49,12 @@ sections:
       - dolor sit amet
     type: content_section
   - title: lorem-ipsum
-    content: >+
-      ## Lorem ipsum
+    content: >
+      ## [Lorem ipsum](google.ca)
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
     type: content_section
   - title: Important Documents
     subtitle: 'lorem-ipsum dolor sit amet, consectuer'
