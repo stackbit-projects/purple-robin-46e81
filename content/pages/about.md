@@ -64,7 +64,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
-    align: left
+    align: right
     image_alt: lorem-ipsum
     image_position: left
     has_background: false
