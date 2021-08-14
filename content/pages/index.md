@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: 'Features<h2 className="section__title mt-0">{title}</h2>'
     features:
       - title: Feature 1
         content: >-
